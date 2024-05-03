@@ -1,4 +1,4 @@
-# GlobalTerrorismDashboard(LookerStudio)-TASK 2
+
 Global Terrorism Dashboard
 DATASET: Terrorism Database
 
